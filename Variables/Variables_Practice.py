@@ -1,4 +1,4 @@
-# Variables Practice, Bruce Johnson, 10/29/21 2:41pm, version 0.2
+# Variables Practice, Bruce Johnson, 10/29/21 2:41pm, version 0.3
 
 # There Common Types of Data
 
@@ -8,3 +8,5 @@ death_cry = "oh no im dead"
 # line 7 is a STRING -- collection of letters/numbers/other chars. 
 
 print(lives_remaining) 
+print(forty_times)
+print(death_cry)
